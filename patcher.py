@@ -3,7 +3,7 @@
 import sys, os, time, re
 from binascii import hexlify, unhexlify
 __author__ = 'Icyblade'
-__credits__ = ['Icyblade', 'AK-48', 'FrostBlade']
+__credits__ = ['AK-48', 'FrostBlade', 'Icyblade']
 __maintainer__ = 'Icyblade'
 
 patcher = {
